@@ -1,0 +1,14 @@
+* {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    display: flex;
+    background-color: aquamarine;
+    width: 100%;
+}
+
+div > a > h2 {
+    margin-left: 120px;
+}
+
+a {
+    color: black;
+}
